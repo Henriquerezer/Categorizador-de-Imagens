@@ -2,7 +2,7 @@
 
 Um aplicativo web poderoso para categorização semântica e busca de imagens utilizando inteligência artificial de ponta, com interface amigável e sistema de autenticação seguro.
 
-![Exemplo da Interface](D:\\Categorizador de Imagens\\Exemplo buscador de imagens.png)
+![Exemplo da Interface](https://github.com/user-attachments/assets/c6a114f1-4eb4-41e6-8b94-29b6a9bce255)
 
 ## 📋 Sumário
 
